@@ -4,7 +4,7 @@
 This is a copy of the CSCI4050U group project done by: Chris Lammers, Anthony Liscio, James Currie, Meghna Krishnan, in Decemeber 2023.
 
 
-### This project’s goal is to create a machine learning model that categorizes photos of celebrities based on 40 different attributes corresponding to facial features, facial expression, accessories, hair, and gender. 
+### Our project’s goal is to create a machine learning model that categorizes photos of celebrities based on 40 different attributes corresponding to facial features, facial expression, accessories, hair, and gender. 
 The binary (true or false) attributes are: 
 - 5 o-Clock Shadow
 - Arched Eyebrows

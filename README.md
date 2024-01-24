@@ -1,7 +1,7 @@
 # Machine Learning Final Project
 ## Celebrity Attribute Categorization with Machine Learning
 
-This is a copy of the CSCI4050U group project done by: Chris Lammers, Anthony Liscio, James Currie, Meghna Krishnan, in Decemeber 2023.
+This is a copy of the information and code for the CSCI4050U group project done by: Chris Lammers, Anthony Liscio, James Currie, Meghna Krishnan, in Decemeber 2023.  (The dataset used we used is not included in this repository).
 
 
 ### Our project’s goal is to create a machine learning model that categorizes photos of celebrities based on 40 different attributes corresponding to facial features, facial expression, accessories, hair, and gender. 
